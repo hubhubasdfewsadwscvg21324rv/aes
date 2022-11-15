@@ -83,7 +83,7 @@ do
     local menu_credits = window:addMenu({text = 'Credits'}) do 
         local section = menu_credits:addSection({text = 'Credits', showMinButton = false})
         
-        section:addLabel({text = 'Scripter / LeadMarker#1219'})
+        section:addLabel({text = 'Scripter / Awu.#0001'})
         section:addLabel({text = 'UI / topit#4057'})
     end
     
